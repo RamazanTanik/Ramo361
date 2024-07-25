@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramazantanik361@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: im 12
+- ⚡ Fun fact: im 12 and im in TEKNOFEST finals
 
 <!---
 Ramo361/Ramo361 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
