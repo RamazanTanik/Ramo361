@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning entity based sentiment analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramazantanik361@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: im 12 and im in TEKNOFEST finals
 
 <!---
